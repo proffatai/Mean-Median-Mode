@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1510746917 source:c:\users\user\documents\c++ programs\mean median mode\main.cpp
+	<iostream>
+	<cstring>
+
+1510746917 source:c:\users\pifa\documents\c++ programs\mean median mode\main.cpp
+	<iostream>
+	<cstring>
+
